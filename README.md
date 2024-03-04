@@ -8,4 +8,4 @@ Experimented with multiple CNN Architectures such as AlexNet, VGG16, Xception an
 ![alt text](<Flood Damage Detection.JPG>)
 
 ## Presentation
-<video controls src="Meeting_20220414_182600.mp4" title="Title"></video>
+<video controls src="Meeting_20220414_182600.mp4" title="Title">Meeting_20220414_182600.mp4</video>
